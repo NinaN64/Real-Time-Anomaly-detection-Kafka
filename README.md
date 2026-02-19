@@ -1,6 +1,6 @@
 ## How to run the code?
 ### Starting Docker/Kafka
-docker-compose up -d (starting docker/kafka)
+docker-compose up -d
 
 ### Creating a topic
 docker exec -it kafka-wordcount-kafka-1 \
