@@ -1,4 +1,4 @@
-package com.example;
+package com.example.example;
 
 import org.apache.kafka.clients.consumer.*;
 import java.time.Duration;
