@@ -13,13 +13,10 @@ public class FileWatcher {
     public static void Watch() {
         try {
             System.out.println("Starting file watcher...");
-            //initialize watch service
             WatchService watchService = java.nio.file.FileSystems.getDefault().newWatchService();
 
-            //path to watch
             Path path = java.nio.file.Paths.get(directoryToWatch);
 
-            //register watchservise for new events
             WatchKey watchKey = path.register(watchService, java.nio.file.StandardWatchEventKinds.ENTRY_CREATE, java.nio.file.StandardWatchEventKinds.ENTRY_MODIFY, java.nio.file.StandardWatchEventKinds.ENTRY_DELETE);
 
             while(true)
