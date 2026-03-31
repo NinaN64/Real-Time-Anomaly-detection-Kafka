@@ -1,2 +1,5 @@
-/Users/ninoczka/Documents/Master/KafkaApp/Real-Time-Anomaly-detection-Kafka/KafkaEngine/src/main/java/com/example/SimpleProducer.java
-/Users/ninoczka/Documents/Master/KafkaApp/Real-Time-Anomaly-detection-Kafka/KafkaEngine/src/main/java/com/example/WordCountConsumer.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaEngine/src/main/java/com/anomaly/producer/DatasetLoader.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaEngine/src/main/java/com/anomaly/producer/DocumentProducer.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaEngine/src/main/java/com/anomaly/producer/DriftInjector.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaEngine/src/main/java/com/anomaly/producer/NewsDocument.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaEngine/src/main/java/com/anomaly/producer/ProducerApp.java

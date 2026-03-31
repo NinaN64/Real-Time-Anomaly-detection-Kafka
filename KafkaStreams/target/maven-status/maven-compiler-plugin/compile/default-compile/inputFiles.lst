@@ -1,0 +1,6 @@
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaStreams/src/main/java/com/anomaly/streams/BatchAggregator.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaStreams/src/main/java/com/anomaly/streams/DocumentBatch.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaStreams/src/main/java/com/anomaly/streams/DocumentListSerde.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaStreams/src/main/java/com/anomaly/streams/StreamTopology.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaStreams/src/main/java/com/anomaly/streams/StreamsApp.java
+/Users/ninoczka/Documents/Master/Kafka/Real-Time-Anomaly-detection-Kafka/KafkaStreams/src/main/java/com/anomaly/streams/TextPreprocessor.java

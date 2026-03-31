@@ -1,0 +1,8 @@
+com/anomaly/streams/DocumentBatch$ProcessedDocument.class
+com/anomaly/streams/DocumentListSerde.class
+com/anomaly/streams/StreamTopology.class
+com/anomaly/streams/TextPreprocessor.class
+com/anomaly/streams/BatchAggregator.class
+com/anomaly/streams/StreamsApp.class
+com/anomaly/streams/DocumentBatch.class
+com/anomaly/streams/DocumentListSerde$1.class

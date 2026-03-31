@@ -1,2 +1,6 @@
-com/example/SimpleProducer.class
-com/example/WordCountConsumer.class
+com/anomaly/producer/DocumentProducer.class
+com/anomaly/producer/DatasetLoader.class
+com/anomaly/producer/ProducerApp.class
+com/anomaly/producer/DriftInjector.class
+com/anomaly/producer/DriftInjector$DriftType.class
+com/anomaly/producer/NewsDocument.class
